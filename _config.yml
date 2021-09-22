@@ -237,6 +237,7 @@ whitelist:
   - jekyll-include-cache
 
 
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -284,6 +285,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true # true
+      comments: # true
       share: true
       related: true
