@@ -105,7 +105,7 @@ author:
   avatar           : https://avatars.githubusercontent.com/u/9118963?v=4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I do some data work."
   location         : "Uberlândia, MG - Brazil."
-  email            : "vitortle@gmail.com"
+  email            : #"vitortle@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
