@@ -6,7 +6,7 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: true
 author_profile: true
 header:
-  overlay_image: /_includes/images/aboutheader.jpg
+  overlay_image: /assets/images/aboutheader.jpg
   caption: "Photo by [**Carlos Muza**](https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash"
   actions:
     - label: "More Info"
